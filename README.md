@@ -19,7 +19,7 @@ Named Entity Recognition (NER) is a crucial task in Natural Language Processing 
 
 ## Dataset
 
-- **Dataset Source:** [https://www.kaggle.com/datasets/naseralqaydeh/named-entity-recognition-ner-corpus](https://www.kaggle.com/datasets/naseralqaydeh/named-entity-recognition-ner-corpus)
+- **Dataset Source:** [NER](https://www.kaggle.com/datasets/naseralqaydeh/named-entity-recognition-ner-corpus)
 - **Entities:** The dataset consists of sentences with labeled entities:
     - **geo:** Geographical Entity
     - **org:** Organization
@@ -42,7 +42,7 @@ Named Entity Recognition (NER) is a crucial task in Natural Language Processing 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/ing-MARWA/NERR_WITH_BERT.git
    ```
 2. Download the dataset from the source mentioned above.
 3. Update the dataset path in the notebook.
