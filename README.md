@@ -42,7 +42,7 @@ Named Entity Recognition (NER) is a crucial task in Natural Language Processing 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ing-MARWA/NERR_WITH_BERT.git
+   git clone https://github.com/ing-MARWA/NER_WITH_BERT.git
    ```
 2. Download the dataset from the source mentioned above.
 3. Update the dataset path in the notebook.
